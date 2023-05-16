@@ -150,3 +150,7 @@ src
 prepare.js
 tsconfig.json
 tsconfig.types.json
+
+# Docs
+
+docs
